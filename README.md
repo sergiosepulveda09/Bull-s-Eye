@@ -23,7 +23,9 @@ This is my first project ever created using Swift! It was an exciting and confus
 
 # Ilustrations
 ![Bull's Eye test](https://user-images.githubusercontent.com/66451506/122716834-a2147180-d21f-11eb-9325-4e0d353fd49d.gif)
+<img width="1440" alt="Screen Shot 2021-06-20 at 11 33 41 PM" src="https://user-images.githubusercontent.com/66451506/122717151-12bb8e00-d220-11eb-9b05-f79bacaeba4c.png">
 ![projectBullsEye](https://user-images.githubusercontent.com/66451506/122715558-e6067700-d21d-11eb-8f6c-f3d0eb9b263b.png)
+
 
 
 # Inspiration
