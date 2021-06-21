@@ -4,10 +4,10 @@ Simple game app created with Swift.
 
 # Table of Contents
 
-- <a href="General Info" >General Info</a>
-- <a href="Technologies">Technologies</a>
-- <a href="Ilustrations">Ilustrations</a>
-- <a href="">Inspiration</a>
+- <a href="https://github.com/sergiosepulveda09/Bull-s-Eye/blob/main/README.md#general-info" >General Info</a>
+- <a href="https://github.com/sergiosepulveda09/Bull-s-Eye/blob/main/README.md#technologies">Technologies</a>
+- <a href="https://github.com/sergiosepulveda09/Bull-s-Eye/blob/main/README.md#ilustrations">Ilustrations</a>
+- <a href="https://github.com/sergiosepulveda09/Bull-s-Eye/blob/main/README.md#inspiration">Inspiration</a>
 
 # General Info
 
