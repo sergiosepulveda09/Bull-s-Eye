@@ -1,3 +1,4 @@
+
 # Bull's Eye - Game app
 
 Simple game app created with Swift.
@@ -21,7 +22,7 @@ This is my first project ever created using Swift! It was an exciting and confus
 - Swift 5.0
 
 # Ilustrations
-
+![Bull's Eye test](https://user-images.githubusercontent.com/66451506/122716834-a2147180-d21f-11eb-9325-4e0d353fd49d.gif)
 ![projectBullsEye](https://user-images.githubusercontent.com/66451506/122715558-e6067700-d21d-11eb-8f6c-f3d0eb9b263b.png)
 
 
