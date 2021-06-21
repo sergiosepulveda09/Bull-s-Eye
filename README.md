@@ -11,8 +11,20 @@ Simple game app created with Swift.
 
 # General Info
 
+This is my first project ever created using Swift! It was an exciting and confusing journey since I had little experience building app. It is the first project you have to make on the Ray Wenderlich's iOS from sratch course. I did it two times and the second time was to review my code and upload it to GitHub
+
 # Technologies
+
+- UIKit
+- SwiftUI
+- XCTest
+- Swift 5.0
 
 # Ilustrations
 
+![projectBullsEye](https://user-images.githubusercontent.com/66451506/122715558-e6067700-d21d-11eb-8f6c-f3d0eb9b263b.png)
+
+
 # Inspiration
+
+It was very exciting for me to create this app, this let me try a little of bit of the taste of what iOS development will look like. I am extremely grateful for all pages that create enough content for us, iOS Developer learners, to thrive and succeed.
